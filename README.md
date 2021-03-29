@@ -17,7 +17,8 @@
    |               | PHP             |               |                         | NetBeans   
    |               |                 |               |                         | Power Bi  
    |               |                 |               |                         | PyCharm  
-   |               |                 |               |                         | Microsoft VS Code  
+   |               |                 |               |                         | Microsoft VS Code 
+   |               |                 |               |                         | Brackets
     
 - - - -
 :trident: My Non-Technical Skills
