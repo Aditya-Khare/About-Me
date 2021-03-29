@@ -32,6 +32,7 @@
   7. Organization
   8. Positive Attitude
 
+- - - -
 
 :trophy: Certifications
 ---------------
@@ -56,6 +57,7 @@
     10. Udemy | Python for Data Science and Machine Learning Bootcamp.
     11. Udemy | SAS Programming BASE Certification Course for SAS Beginners.
 
+- - - -
 
 👨‍💻 My Projects
 ---------------
@@ -66,6 +68,7 @@
 | Dummy Alarm System                  | 
 | 3D Printed Headphone Stand          | 
 
+- - - -
 
 📫 How to reach me
 ---------------
