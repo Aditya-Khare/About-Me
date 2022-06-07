@@ -1,8 +1,9 @@
 👋 Hi, I’m Aditya Khare
 =============
 - About Me: 
-  - 👨🏻‍🎓 Student : B. Tech CS 3rd Year 
+  - 👨🏻‍🎓 Graduate : B. Tech. CE
   - :school: University :  SVKM's MPSTME, NMIMS University.
+  - 🏢 Job : Analyst at Digital Trust KPMG India
   
 - - - -
 
@@ -19,6 +20,9 @@
    |               |                 |               |                         | PyCharm  
    |               |                 |               |                         | Microsoft VS Code 
    |               |                 |               |                         | Brackets
+   |               |                 |               |                         | SAS Visual Analytics
+   |               |                 |               |                         | Anaconda Spyder
+   |               |                 |               |                         | Anaconda Jupyter Notebook
     
 - - - -
 :trident: My Non-Technical Skills
